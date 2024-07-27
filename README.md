@@ -38,6 +38,10 @@ This project aims to enhance communication between parents of kindergarten stude
 <img src="https://github.com/user-attachments/assets/702e6690-db76-46d1-9b10-b8a55038368d" width=20% height=20%>
 <img src="https://github.com/user-attachments/assets/35c78ccb-9dbb-481e-bb58-5f05726bb245" width=20% height=20%>
 <img src="https://github.com/user-attachments/assets/04ca6045-532c-414b-9d42-0385258dca81" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/93760226-b9d5-44e1-aa21-9917422b54d3" width=20% height=20%>
+<img src="https://github.com/user-attachments/assets/cf688c02-7cc9-4e20-9351-4c1a12f18e20" width=40% height=%50>
+
+
 
 
 
